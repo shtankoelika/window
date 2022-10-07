@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1,
 h2,
 h3,
@@ -201,3 +202,58 @@ top: 2097px;
 
 background: #2F303A;
 }
+=======
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul {
+  padding-left: 0;
+  list-style: none;
+  margin: 0;
+}
+body{
+    margin: 0;
+}
+.page-header{
+height: 80px;
+border-bottom: 1px solid #ececec;
+}
+.conteiner{
+    display: flex;
+    justify-content: space-around;
+}
+.Web{
+    color: blue;
+    font-size: 26px;
+    font-family: 'Raleway';
+    font-weight: 700;
+}
+.studio{
+    color: black;
+    font-size: 26px;
+    font-family: 'Raleway';
+    font-weight: 700;
+}
+.logo{
+    margin: 25px;
+}
+.stubia{
+    color: #2196F3;
+    position: absolute;
+    left: 453px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 14px;
+}
+>>>>>>> 6b85fcb7aef9ce63dd8529a9376e13aacc518ab5
