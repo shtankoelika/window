@@ -1,0 +1,105 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul {
+  padding-left: 0;
+  list-style: none;
+  margin: 0;
+}
+body{
+    margin: 0;
+    font-family:Roboto ;
+}
+.page-header{
+height: 80px;
+border-bottom: 1px solid #ececec;
+display: flex;
+align-items: center;
+}
+.conteiner{
+    display: flex;
+    justify-content: space-around;
+   align-items: center;
+   width: 100%;
+}
+.Web{
+    color: blue;
+    font-size: 26px;
+    font-family: 'Raleway';
+    font-weight: 700;
+}
+.studio{
+    color: black;
+    font-size: 26px;
+    font-family: 'Raleway';
+    font-weight: 700;
+}
+.stubia{
+    color: #2196F3;
+    position: absolute;
+    left: 453px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 14px;
+}
+.sty{
+    position: absolute;
+    left: 550px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 14px;
+}
+.bia{
+    position: absolute;
+    left: 650px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 14px;
+}
+.red{
+    position: absolute;
+    left: 1120px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 14px;
+}
+.syp{
+    color: #2196F3;
+    position: absolute;
+    left: 970px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 14px;
+}
+.box{
+    position: absolute;
+    width: 1400px;
+    height: 600px;
+    left: 0px;
+    top: 80px;
+    background: #2F303A;
+}
+.effect{position: absolute;
+width: 696px;
+height: 120px;
+left: 452px;
+top: 280px;
+font-family: 'Roboto';
+font-size: 44px;
+line-height: 60px;
+color: #FFFFFF; } 
